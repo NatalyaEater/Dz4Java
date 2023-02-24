@@ -1,0 +1,14 @@
+февр. 24, 2023 4:33:49 PM task sort
+INFO: Sorted array[23, 53, 7, 3, 2]
+февр. 24, 2023 4:33:49 PM task sort
+INFO: Sorted array[53, 23, 7, 3, 2]
+февр. 24, 2023 4:33:49 PM task sort
+INFO: Sorted array[23, 3, 7, 2, 53]
+февр. 24, 2023 4:33:49 PM task sort
+INFO: Sorted array[7, 3, 2, 23, 53]
+февр. 24, 2023 4:33:49 PM task sort
+INFO: Sorted array[3, 2, 7, 23, 53]
+февр. 24, 2023 4:33:49 PM task sort
+INFO: Sorted array[2, 3, 7, 23, 53]
+февр. 24, 2023 4:33:49 PM task sort
+INFO: Sorted array[2, 3, 7, 23, 53]
